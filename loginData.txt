@@ -1,0 +1,25 @@
+A001;Admin;Gan Teck Ann;A001@0805;Q1;Batu Pahat;Q4;APU;1
+A002;Admin;Jonas Low;A002@0711;Q4;APU;Q5;Ali;0
+A003;Admin;Tan Li Ren;A003@0901;-;-;-;-;1
+A004;Admin;Carmen Lee Siew Ling;A004@0312;-;-;-;-;1
+D001;Doctor;Goh Yang Ee;D001@0724;Q3;Ee Ee;Q1;Sungai Petani;1
+D002;Doctor;Tan Kai Ren;D002@0715;-;-;-;-;1
+D003;Doctor;Lim Wei Ming;D003@0421;-;-;-;-;1
+D004;Doctor;Aishah Binti Rahman;D004@0809;-;-;-;-;1
+D005;Doctor;Chong Li Xian;D005@0615;-;-;-;-;1
+D006;Doctor;Arun Kumar;D006@0312;-;-;-;-;1
+D007;Doctor;Ng Pei Yee;D007@0728;-;-;-;-;1
+D008;Doctor;Goh Jian Hong;D008@0214;-;-;-;-;1
+D009;Doctor;Lee Siew Ling;D009@0920;-;-;-;-;1
+D010;Doctor;Mohd Farid Bin Hassan;D010@0102;-;-;-;-;1
+P001;Patient;Lim Jin Ming;P001@0609;Q4;APU;Q2;Jimmy;1
+P002;Patient;Lee Chin Hua;P002@0516;-;-;-;-;1
+P003;Patient;Ahmad Faizal;P003@0321;-;-;-;-;1
+P004;Patient;Siti Nur Aisyah;P004@0812;-;-;-;-;1
+P005;Patient;Tan Wei Jie;P005@1125;-;-;-;-;1
+P006;Patient;Raj Kumar;P006@0507;-;-;-;-;1
+P007;Patient;Lim Jia Ying;P007@1230;-;-;-;-;1
+P008;Patient;Chong Hui Wen;P008@0214;-;-;-;-;1
+P009;Patient;Goh Yi Xuan;P009@0715;-;-;-;-;1
+P010;Patient;Kavitha Muniandy;P010@0830;-;-;-;-;1
+D011;Doctor;Kelly Chen;D011@0412;-;-;-;-;1

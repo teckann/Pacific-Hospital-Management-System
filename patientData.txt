@@ -1,0 +1,10 @@
+P001;Lim Jin Ming;950609062068;30;Male;Chinese;0123456789;jinming@gmail.com;Terengganu;B;Milk(Mild),Wheat(Mild),Peanuts(Mild),Eggs(Moderate);Former Smoker,Never Drinks,Regular Exercise,Balanced Diet;1
+P002;Lee Chin Hua;060512123564;20;Female;Chinese;0123412638;chinhua@gmail.com;Peneng;AB;-;-,-,-,-;1
+P003;Ahmad Faizal;990321087654;26;Male;Malay;0134567890;faizal99@gmail.com;Selangor;O;-;-,-,-,-;1
+P004;Siti Nur Aisyah;050812112345;18;Female;Malay;0112233445;sitinur05@gmail.com;Johor;B;-;-,-,-,-;1
+P005;Tan Wei Jie;981125098763;27;Male;Chinese;0175647382;weijie.tan@gmail.com;Kuala Lumpur;A;-;-,-,-,-;1
+P006;Raj Kumar;950507075321;30;Male;Indian;0198273645;rajkumar95@gmail.com;Negeri Sembilan;B;-;-,-,-,-;1
+P007;Lim Jia Ying;071230119876;18;Female;Chinese;0104455667;jiaying07@gmail.com;Penang;AB;-;-,-,-,-;1
+P008;Chong Hui Wen;930214085432;32;Female;Chinese;0167788990;huiwen.chong@gmail.com;Sarawak;O;-;-,-,-,-;1
+P009;Goh Yi Xuan;020715103456;21;Female;Chinese;0182233445;yixuan02@gmail.com;Melaka;A;-;-,-,-,-;1
+P010;Kavitha Muniandy;970830076543;28;Female;Indian;0126677889;kavitha97@gmail.com;Perak;B;-;-,-,-,-;1

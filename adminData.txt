@@ -1,0 +1,4 @@
+A001;Gan Teck Ann;060805012345;Male;Malaysian;Johor;0127893425;teckann@gamil.com;1
+A002;Jonas Low;060711016789;Male;Malaysian;Johor;0123456789;jonas@gmail.com;0
+A003;Tan Li Ren;830901015627;Male;Malaysian;Kuala Lumpur;0125673214;liren@gmail.com;1
+A004;Carmen Lee Siew Ling;950312014822;Female;Malaysian;Kelantan;0126789123;carmenLee@gmail.com;1

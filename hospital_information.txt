@@ -1,0 +1,16 @@
+HI001;General Information;Address: 8, Jalan ABC, 50123 Kuala Lumpur, Malaysia;1
+HI002;General Information;Main Line: +603-8126 8888;1
+HI003;General Information;Official Website: www.pacifichospital.com.my;1
+HI004;General Information;Official Email: info@pacifichospital.com.my;1
+HI005;General Information;Complaint Email: complaints@pacifichospital.com.my;1
+HI006;General Information;Excellent Hospital Partnership Program (EHPP) Email: ehpp@pacifichospital.com.my;1
+HI007;Accident & Emergency;Emergency Hotline: +603-8126 0999;1
+HI008;Accident & Emergency;Pacific Hospital is available 24/7, every day including public holidays;1
+HI009;Visiting Hours;General visiting hours: 12:00PM to 02:00PM & 06:00PM to 08:00PM;1
+HI010;Visiting Hours;ICU / CCU / HDU : 12:00PM to 01:30PM & 05:00PM to 06:30PM;1
+HI011;Visiting Hours;NICU: Only parents are allowed to visit (12:00PM to 08:00PM);1
+HI012;Operating Hours;Pharmacy operating hours: 08:00AM to 07:00PM (Weekday);1
+HI013;Operating Hours;Admin Office operating hours: 8:30AM – 5:30PM (Weekday);1
+HI014;General Information;Complaint Email: complaints@pacifichospital.com.my;1
+HI015;Safety Measures;A maximum of 2 visitors are allowed at a time;1
+HI016;Safety Measures;Children under the age of 12 are not allowed to visit patients in the wards;1

@@ -1,0 +1,2 @@
+CH001;P002;Lee Mei Li;220912018726;Female;Penang;5,8;A;-;-,-,-,-;1
+CH002;P001;Jaco;200609061117;Male;Pahang;5,0;AB;-;-,-,-,-;1

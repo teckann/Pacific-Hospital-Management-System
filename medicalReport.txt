@@ -1,0 +1,22 @@
+MR001;P001;Kuala Lumpur;Male;24;Coronary Artery Disease;Patient presents with exertional chest pain and shortness of breath. Risk factors include hypertension and hyperlipidemia. ECG shows ischemic changes, cardiac enzymes within normal limits. Currently stable on medical therapy.;D001;2025-08-09;130.00;0;Urine pH: 6.0,Protein: Negative,Glucose: Negative;1
+MR002;CH001;Thailand;Male;3,3;Asthma;Patient had a history of recurrent wheezing, coughing, and dyspnea, often triggered by upper respiratory tract infections and allergens. Symptoms were significantly relieved with bronchodilator treatment.;D006;2025-08-13;100.00;1;-;1
+MR003;P001;Kuala Lumpur;Female;30;Migraine;Migraine with recurrent headache attacks.;D004;2025-09-03;100.00;1;-;1
+MR004;P005;Kuala Lumpur;Male;27;Conjunctivitis;The patient has conjunctivitis, an inflammation of the conjunctiva presenting with eye redness, irritation, and discharge.;D008;2025-09-03;100.00;0;Glucose: 13.00 mmol/L (Normal),Cholesterol: 4.20 mg/dL (Normal),Hemoglobin: 1.00 g/dL (Normal);1
+MR005;P001;Kuala Lumpur;Female;30;Myocardial Infarction;-;D001;2025-09-03;100.00;1;-;1
+MR006;CH002;Penang;Female;5,8;Bronchitis;Acute bronchitis with cough and sputum.;D006;2025-09-03;100.00;1;-;1
+MR007;P003;Selangor;Male;26;Arrhythmia;-;D007;2025-09-03;100.00;1;Glucose: 15.50 mmol/L (Normal),Cholesterol: 3.00 mg/dL (Low),Hemoglobin: 1.00 g/dL (Normal);1
+MR008;P002;Peneng;Female;20;Arrhythmia;-;D007;2025-09-03;100.00;1;-;1
+MR009;CH001;Terengganu;Male;3,2;Asthma;-;D002;2025-09-04;100.00;1;Glucose: 14.80 mmol/L (Normal),Cholesterol: 6.00 mg/dL (Normal),Hemoglobin: 1.10 g/dL (Normal);1
+MR010;P001;Terengganu;Male;30;Angina;Angina caused by narrowed heart arteries, chest pain on activity, relieved by rest.;D001;2025-09-05;100.12;1;-;1
+MR011;P001;Terengganu;Male;30;Angina;Patient presents with angina, chest tightness linked to reduced blood supply to the heart.;D001;2025-09-05;20.00;1;-;1
+MR012;P001;Terengganu;Male;30;Angina;Angina symptoms triggered by exertion, eased with rest, due to coronary narrowing.;D001;2025-09-05;10.00;1;Glucose: 10.00 mmol/L (Normal),Cholesterol: 6.00 mg/dL (Normal),Hemoglobin: 1.00 g/dL (Normal);1
+MR013;P001;Terengganu;Male;30;Arrhythmia;-;D001;2025-09-06;111.20;1;Glucose: 10.00 mmol/L (Low),Cholesterol: 5.00 mg/dL (Normal),Hemoglobin: 1.00 g/dL (Normal);1
+MR014;P001;Terengganu;Male;30;Angina;Chest discomfort from angina, likely from decreased oxygen supply to the heart.;D001;2025-09-06;10.00;1;-;1
+MR015;P002;Peneng;Female;20;Angina;Stable angina noted: chest pain on stress or exercise, subsides at rest.;D001;2025-09-06;100.00;1;Glucose: 10.00 mmol/L (Low),Cholesterol: 4.20 mg/dL (Normal),Hemoglobin: 1.20 g/dL (Normal);1
+MR016;P005;Kuala Lumpur;Male;27;Arrhythmia;-;D001;2025-09-06;100.00;1;-;1
+MR017;P005;Kuala Lumpur;Male;27;Angina;Angina with pressure-like chest pain radiating to arm/jaw, caused by poor heart blood flow.;D001;2025-09-06;100.00;1;Glucose: 10.00 mmol/L (Normal),Cholesterol: 4.20 mg/dL (Normal),Hemoglobin: 1.00 g/dL (Normal);1
+MR018;P006;Negeri Sembilan;Male;30;Arrhythmia;-;D001;2025-09-06;10.00;1;-;1
+MR019;P003;Selangor;Male;26;Arrhythmia;-;D001;2025-09-06;100.00;1;-;1
+MR020;P001;Terengganu;Male;30;Arrhythmia;Patient diagnosed with arrhythmia, an irregular heartbeat caused by abnormal electrical signals in the heart.;D001;2025-09-08;100.00;1;Glucose: 12.00 mmol/L (Normal),Cholesterol: 4.00 mg/dL (Normal),Hemoglobin: 1.30 g/dL (High);1
+MR021;P001;Terengganu;Male;30;Coronary Artery Disease;-;D001;2025-09-08;100.00;1;Glucose: 10.00 mmol/L (Low),Cholesterol: 5.00 mg/dL (Low),Hemoglobin: 5.00 g/dL (Low);1
+MR022;P001;Terengganu;Male;30;Angina;Patient has angina, chest pain episodes linked to coronary artery disease.;D001;2025-09-08;100.00;1;-;1
