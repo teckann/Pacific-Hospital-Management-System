@@ -60,6 +60,27 @@ A **Guest** can only browse publicly available hospital information.
 - Manage hospital healthcare programs by register, view, update, and delete programs
 
 
+# 📸 Demo
+
+Here are some screenshots demonstrating the key features of the system:
+
+### Login & Guest
+<img src="demo_img/01.png" alt="Login" width="600"/>
+<img src="demo_img/03.png" alt="Register" width="600"/>
+
+### Patient
+<img src="demo_img/08.png" alt="Appointment" width="600"/>
+<img src="demo_img/09.png" alt="Prescription" width="600"/>
+
+### Doctor
+<img src="demo_img/06.png" alt="Patient Record" width="600"/>
+<img src="demo_img/07.png" alt="Vaccination" width="600"/>
+
+### Administrator
+<img src="demo_img/04.png" alt="Assistance" width="600"/>
+<img src="demo_img/05.png" alt="User Management" width="600"/>
+
+
 # 📜 Declarations
 
 - This project is developed for **educational purposes**, simulating a real hospital management system.  
